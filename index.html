@@ -13,8 +13,8 @@
 
   <script>
     const tg = window.Telegram.WebApp;
-    tg.expand(); // Открывает приложение на весь экран
-
+    tg.expand();
+      
     function sendData() {
       tg.sendData(JSON.stringify({ message: "Hello from Mini App!" }));
     }
