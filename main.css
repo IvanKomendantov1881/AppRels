@@ -9,11 +9,13 @@ body {
       color: var(--tg-theme-text-color);
       font-family: sans-serif;
       padding: 20px;
+      background-color: black;
     }
-    button {
-      width: 100%;
-      padding: 12px;
-      font-size: 18px;
-      border-radius: 10px;
-      border: none;
-    }
+
+button {
+  width: 100%;
+  padding: 12px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+}
