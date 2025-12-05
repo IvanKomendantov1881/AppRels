@@ -90,6 +90,12 @@ section{
     overflow: hidden;
 }
 
+.swiper {
+    width: 100%;
+    height: 85vh; 
+    overflow: visible; 
+}
+
 .AiBlockText{
     text-align: center;
     padding-top: 40px;
